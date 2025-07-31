@@ -34,7 +34,7 @@ Achieved **88% accuracy** with balanced precision and recall:
 |-------------------------------|---------------------------------------------------------|
 | DefineAndSolveMLProblem.ipynb | Jupyter notebook with full code, output, and commentary |
 | DefineAndSolveMLProblem.ipynb | Printable version with all markdown and plots           |
-| bookReviewsData.csv           | training data for the model                             |
+| bookReviewsData.csv           | training dataset used for model development             |
 
 # ✮ Key Takeaways
 
@@ -45,3 +45,7 @@ This project demonstrates how simple processing steps and thoughtful feature eng
 - Explore deep learning approaches
 - Deploy as a web app to classify user-submitted reviews in real-time
 - Expand the dataset for a more robust evaluation
+
+# ˖ Program Info
+
+This project was completed as a part of the **Break Through Tech AI Program** (Summer 2025).
